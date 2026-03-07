@@ -39,10 +39,10 @@ export function Home() {
                 'Zeneth is a fashion designer at the intersection of gothic tradition and street rebellion. Based between shadow and neon, the work explores identity, freedom, and the raw energy of underground culture.'}
             </p>
             <Link
-              to="/about"
+              to="/collections"
               className="mt-8 inline-block border border-zeneth-purple px-6 py-2.5 text-sm font-semibold uppercase tracking-wider text-zeneth-purple transition hover:bg-zeneth-purple hover:text-zeneth-bg"
             >
-              Learn more
+              See my collections
             </Link>
           </div>
         </div>
