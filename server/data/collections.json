@@ -1,0 +1,60 @@
+[
+  {
+    "id": "hk-gothic-rebellion",
+    "title": "HK Gothic Rebellion",
+    "slug": "hk-gothic-rebellion",
+    "coverImage": "/uploads/1772869352247-z97hbgbuvoq.png",
+    "summary": "A collection rooted in the sharpness of punk, the gloom of gothic, and the assertive expression of Hong Kong street graffiti. Black and purple dominate; bat wings and bold typography echo freedom and rebellion.",
+    "order": 0,
+    "styles": [
+      {
+        "id": "style-1",
+        "title": "Shadow Crown",
+        "mainPhoto": "/style/style1.png",
+        "featurePhoto": "/uploads/1772864407583-7uawzdlslhl.png",
+        "description": "這套「港式哥德叛亂」時裝以黑紫撞色為主調，碰撞出朋克的爆裂、哥德的詭譎與香港街頭塗鴉的肆意張揚。西裝領上的紫蜘蛛如暗夜密探，靜伏於衣領之側，暗藏致命誘惑；褲身的蜘蛛網塗鴉以潑灑筆觸勾勒，如迷網般縱橫交錯，將香港街頭的不羈氣質刻入設計；整體造型在黑暗中綻放叛逆光芒，以暗夜紳士之姿，撕碎一切束縛，踐行對既有框架的衝撞與重塑。",
+        "order": 0
+      },
+      {
+        "id": "style-2",
+        "title": "Night Wing",
+        "mainPhoto": "/style/style2.png",
+        "featurePhoto": "/uploads/1772865959504-gbnuvfyqfck.png",
+        "description": "這套「港式哥德叛亂」時裝以黑紫撞色為主調，糅合朋克的銳利、哥德的陰鬱與香港街頭塗鴉的肆意張揚。背後一對巨大的蝙蝠翅膀裝飾如暗夜羽翼般張開，在黑暗中振翅高飛，象徵著突破束縛的自由；上裝的「Night Wing」塗鴉以粗獷筆觸書寫，與造型名字呼應，將香港塗鴉的野性感刻入設計，在夜色中綻放叛逆光芒，踐行對既有秩序的蔑視與顛覆。",
+        "order": 1
+      },
+      {
+        "id": "style-3",
+        "title": "Razor Lace",
+        "mainPhoto": "/style/style3.png",
+        "featurePhoto": "/uploads/1772866980856-7vs5wqnq2q7.png",
+        "description": "這套「港式哥德叛亂」時裝以黑紫暗調為基底，揉合朋克的銳利、哥德的陰鬱與香港街頭塗鴉的狂放張力。右手的骨頭裝飾如叛逆的戰甲般張揚，是無畏精神的具象化表達；皮衣腰間的骨頭塗鴉以粗獷筆觸勾勒，將香港塗鴉的野性感刻入設計。整體造型踐行「無謂無懼的黑暗叛逆」核心，以極致的視覺衝擊，詮釋突破一切規限、凌駕規則之上的精神内核。",
+        "order": 2
+      },
+      {
+        "id": "style-4",
+        "title": "Neon Veins",
+        "mainPhoto": "/style/style4.png",
+        "featurePhoto": "/uploads/1772867053150-s65cigxzi0s.png",
+        "description": "這套「港式哥德叛亂」時裝以黑紫暗調為基底，碰撞出朋克的爆裂、哥德的妖異與香港街頭塗鴉的野蠻氣息。披風與兜帽上的潑墨塗鴉如暗夜潑灑的紫墨，恣意流轉間暗藏反叛的張力，將香港街頭的不羈氣質刻入設計；整體造型在黑暗中綻放叛逆光芒，以暗夜行者之姿，撕碎一切束縛，宣告對規則的蔑視與超越，在混沌邊界中書寫屬於自己的反叛詩篇。",
+        "order": 3
+      },
+      {
+        "id": "style-5",
+        "title": "Concrete Bloom",
+        "mainPhoto": "/style/style5.png",
+        "featurePhoto": "/uploads/1772867083399-gmc2piqi47c.png",
+        "description": "這套「港式哥德叛亂」時裝以黑紫暗調為基底，融合朋克的鋒芒、哥德的詭譎與香港街頭塗鴉的野性張力。兜帽頂端張開的蛇形血盆大口，如暗夜猛獸般兇猛，暗藏吞噬一切的威懾；兩臂的蛇骨飾條如反叛的脊骨，張揚著無懼的態度；衣身中央的十字架塗鴉以粗獷筆觸書寫，將香港塗鴉的狂放刻入設計，在規則的邊緣肆意生長，以黑暗叛逆的姿態，撕碎一切束縛，宣告對秩序的蔑視與超越。",
+        "order": 4
+      },
+      {
+        "id": "style-6",
+        "title": "Midnight Script",
+        "mainPhoto": "/style/style6.png",
+        "featurePhoto": "/uploads/1772867103912-x336wxdtmv.png",
+        "description": "這套「港式哥德叛亂」時裝以紫黑撞色為主調，淬煉出朋克的鋒利、哥德的詭魅與香港街頭塗鴉的野蠻張力。胸前對稱的烏鴉頭骨設計如暗夜信使，凝視著混沌邊界；右手獸抓裝飾如利爪般銳利，暗藏撕裂束縛的力量；裙前「crow」塗鴉與裙邊穿孔細節，將香港街頭的不羈氣質刻入設計，整體造型在黑暗中綻放叛逆光芒，以暗夜獵手之姿，撕碎一切規則，踐行對既有框架的衝撞與重塑。",
+        "order": 5
+      }
+    ]
+  }
+]
